@@ -1,4 +1,4 @@
-👋 Olá, eu sou o Zé!
+👋 Olá, eu sou o Mitsuo!
 
 🎓 Estudante de Engenharia da Computação na UNIFIL
 💼 Analista de Dados na Extractta, atuando com Power BI e Power Automate
